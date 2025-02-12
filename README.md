@@ -41,6 +41,6 @@ Durante a execução, observou-se que:
 ## Conclusão
 Este projeto demonstra o uso do Raspberry Pi Pico para controle de um servo motor utilizando PWM. A implementação pode ser expandida para aplicações mais complexas, como robótica e automação.
 
-## Autor
+## Feito por
 Eliseu Araujo Rios Neto
-
+**MITLicense
