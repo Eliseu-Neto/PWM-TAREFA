@@ -45,6 +45,6 @@ Este projeto demonstra o uso do Raspberry Pi Pico para controle de um servo moto
 Eliseu Araujo Rios Neto
 
 ##LINK***
-https://youtu.be/uI-AaDUyE0E
+[https://youtu.be/uI-AaDUyE0E]
 
 ##**MITLicense
