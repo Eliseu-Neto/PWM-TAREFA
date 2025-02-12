@@ -15,8 +15,8 @@ Este projeto utiliza um Raspberry Pi Pico para controlar um servo motor via PWM.
 1. Instale o [Pico SDK](https://github.com/raspberrypi/pico-sdk) e configure seu ambiente de desenvolvimento.
 2. Clone o repositório e entre na pasta do projeto:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_PROJETO>
+   git clone <URL_REPOSITORIO>
+   cd <PROJETO>
    ```
 3. Compile o código usando CMake:
    ```sh
@@ -38,12 +38,13 @@ Durante a execução, observou-se que:
 - A movimentação suave do servo melhora a estabilidade do sistema.
 - O código permite ajustes simples para modificar os tempos e ângulos do servo.
 
-## Conclusão
+## Conclusão#
 Este projeto demonstra o uso do Raspberry Pi Pico para controle de um servo motor utilizando PWM. A implementação pode ser expandida para aplicações mais complexas, como robótica e automação.
 
 ## Feito por
 Eliseu Araujo Rios Neto
-LINK***
+
+##LINK***
 https://youtu.be/uI-AaDUyE0E
 
-**MITLicense
+##**MITLicense
